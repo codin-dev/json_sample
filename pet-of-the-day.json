@@ -1,8 +1,8 @@
 {
     "pet": {
-        "age": 51,
-        "name": "Barksalot1",
-        "photo": "https://learnwebcode.github.io/json-example/images/dog-1.jpg1",
-        "species": "Dog1"
+        "age": 52,
+        "name": "Barksalot2",
+        "photo": "https://learnwebcode.github.io/json-example/images/dog-1.jpg2",
+        "species": "Dog2"
     }
 }
